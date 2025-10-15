@@ -1,12 +1,32 @@
-##Credit Card Fraud Detection & Customer Segmentation
+# 🟦 Credit Card Fraud Detection and Customer Segmentation
 
-💻 Tool: IBM SPSS Modeler
-🧠 Techniques: Supervised (Random Forest, Decision Tree, Logistic Regression) + Unsupervised (K-Means Clustering)
-📈 Goal:
+## 📘 Overview
+This project demonstrates both **fraud detection** and **customer segmentation** using **IBM SPSS Modeler**, showcasing the use of **supervised (classification)** and **unsupervised (clustering)** learning techniques.
 
-Detect potential fraudulent transactions.
+---
 
-Segment customers based on credit behavior and transaction patterns.
+## 🧾 Part 1 – Credit Card Fraud Detection
+**Dataset:** creditcard.csv  
+**Techniques Used:** Logistic Regression, C5.0 Decision Tree, Random Forest  
 
-🔍 Outcome:
-Identified fraud with high accuracy and grouped customers into distinct behavioral clusters for targeted marketing and risk control.
+✅ **Best Model:** Random Forest — highest accuracy and recall in identifying fraudulent transactions.
+
+---
+
+## 💳 Part 2 – Customer Segmentation
+**Dataset:** bankchurners.csv  
+**Technique Used:** K-Means Clustering  
+
+**Cluster Insights:**
+- **Cluster 1:** Low credit, high utilization → risky customers  
+- **Cluster 2:** High credit, low utilization, high activity → 💰 *best for loan approval*  
+- **Cluster 3–5:** Moderate profiles with varying risk  
+
+---
+
+## 🧠 Key Outcomes
+- Detected fraudulent activities using machine learning models.  
+- Segmented customers for better loan and marketing decisions.  
+- Demonstrated practical data analytics using IBM SPSS Modeler.  
+
+]
