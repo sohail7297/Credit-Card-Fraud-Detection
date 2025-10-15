@@ -1,4 +1,4 @@
-Credit Card Fraud Detection & Customer Segmentation
+##Credit Card Fraud Detection & Customer Segmentation
 
 💻 Tool: IBM SPSS Modeler
 🧠 Techniques: Supervised (Random Forest, Decision Tree, Logistic Regression) + Unsupervised (K-Means Clustering)
