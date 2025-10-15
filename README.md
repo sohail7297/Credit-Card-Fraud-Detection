@@ -29,4 +29,3 @@ This project demonstrates both **fraud detection** and **customer segmentation**
 - Segmented customers for better loan and marketing decisions.  
 - Demonstrated practical data analytics using IBM SPSS Modeler.  
 
-]
